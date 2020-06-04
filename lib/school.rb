@@ -10,3 +10,4 @@ class school
    def roster 
      @roster
    end 
+ end
