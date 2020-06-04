@@ -12,4 +12,7 @@ class School
    def roster 
      @roster
    end 
+   def add_student=(add_student)
+     @add_student = 
  end
+ 
